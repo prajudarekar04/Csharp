@@ -47,7 +47,7 @@ It demonstrates **C# OOP concepts, File Handling, Collections, and LINQ**, makin
 
 1. **Clone the Repository:**
 
-       git clone https://github.com/your-username/StudentMarksManagement.git
+       git clone https://github.com/prajudarekar04/StudentMarksManagement.git
        cd StudentMarksManagement
 
 2. **Run the Project:**
