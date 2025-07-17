@@ -55,7 +55,7 @@ You can:
 
 1. **Clone the Repository:**
 
-       git clone https://github.com/your-username/ExpenseTracker.git
+       git clone https://github.com/prajudarekar04/ExpenseTracker.git
        cd ExpenseTracker
 
 2. **Run the Project:**
