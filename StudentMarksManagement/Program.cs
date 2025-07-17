@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using StudentMarksManagement.Services;
 
 class Program
@@ -17,7 +17,8 @@ class Program
             Console.WriteLine("4. Update Marks");
             Console.WriteLine("5. Delete Student");
             Console.WriteLine("6. Sort Students");
-            Console.WriteLine("7. Exit");
+            Console.WriteLine("7. Top 3 Students Report");
+            Console.WriteLine("8. Exit");
             Console.Write("Enter your choice: ");
 
             string? choice = Console.ReadLine();
@@ -60,6 +61,10 @@ class Program
                     break;
 
                 case "7":
+                    service.Top3Students();
+                    break;
+
+                case "8":
                     running = false;
                     break;
 
