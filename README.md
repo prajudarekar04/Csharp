@@ -31,7 +31,7 @@ This repository will continue to grow with more console apps, utilities, and con
 
 1. **Clone the Repository:**
 
-       git clone https://github.com/your-username/Csharp.git
+       git clone https://github.com/prajudarekar04/Csharp.git
        cd Csharp
 
 2. **Open any project folder and run:**
