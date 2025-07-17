@@ -1,0 +1,14 @@
+D:\Csharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.exe
+D:\Csharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.deps.json
+D:\Csharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.runtimeconfig.json
+D:\Csharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.dll
+D:\Csharp\ExpenseTracker\bin\Debug\net8.0\ExpenseTracker.pdb
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfoInputs.cache
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.AssemblyInfo.cs
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.dll
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\refint\ExpenseTracker.dll
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.pdb
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.genruntimeconfig.cache
+D:\Csharp\ExpenseTracker\obj\Debug\net8.0\ref\ExpenseTracker.dll

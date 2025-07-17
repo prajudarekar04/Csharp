@@ -1,0 +1,2 @@
+1|2025-07-15|Food|Lunch at cafe|250
+2|2025-07-16|Transport|Bus Ticket|50
