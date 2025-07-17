@@ -37,7 +37,7 @@ namespace StudentMarksManagement.Services
 
         public void SearchStudent(string keyword)
         {
-            var result = students.Where(s => s.Name.Contains(keyword, StringComparison.OrdinalIgnoreCase) 
+            var result = students.Where(s => s.Name.Contains(keyword, StringComparison.OrdinalIgnoreCase)
                                           || s.Marks.ToString() == keyword).ToList();
 
             if (result.Count == 0)
@@ -76,6 +76,26 @@ namespace StudentMarksManagement.Services
         {
             var sorted = ascending ? students.OrderBy(s => s.Marks).ToList() : students.OrderByDescending(s => s.Marks).ToList();
             sorted.ForEach(s => Console.WriteLine(s));
+        }
+        
+        public void Top3Students()
+        {
+            if (students.Count == 0)
+            {
+                Console.WriteLine("⚠ No records found.");
+                return;
+            }
+
+            var top3 = students
+                .OrderByDescending(s => s.Marks)
+                .Take(3)
+                .ToList();
+
+            Console.WriteLine("\n🏆 TOP 3 STUDENTS:");
+            foreach (var s in top3)
+            {
+                Console.WriteLine(s);
+            }
         }
     }
 }
