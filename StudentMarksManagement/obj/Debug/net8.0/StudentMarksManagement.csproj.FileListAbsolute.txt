@@ -1,0 +1,14 @@
+D:\Csharp\StudentMarksManagement\bin\Debug\net8.0\StudentMarksManagement.exe
+D:\Csharp\StudentMarksManagement\bin\Debug\net8.0\StudentMarksManagement.deps.json
+D:\Csharp\StudentMarksManagement\bin\Debug\net8.0\StudentMarksManagement.runtimeconfig.json
+D:\Csharp\StudentMarksManagement\bin\Debug\net8.0\StudentMarksManagement.dll
+D:\Csharp\StudentMarksManagement\bin\Debug\net8.0\StudentMarksManagement.pdb
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.AssemblyInfoInputs.cache
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.AssemblyInfo.cs
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.csproj.CoreCompileInputs.cache
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.dll
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\refint\StudentMarksManagement.dll
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.pdb
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\StudentMarksManagement.genruntimeconfig.cache
+D:\Csharp\StudentMarksManagement\obj\Debug\net8.0\ref\StudentMarksManagement.dll
